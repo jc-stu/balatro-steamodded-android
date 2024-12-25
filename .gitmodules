@@ -1,0 +1,8 @@
+[submodule "Steamodded"]
+	path = Steamodded
+	url = https://github.com/jc-stu/Steamodded
+	branch = mod_android
+[submodule "balatromobile"]
+	path = balatromobile
+	url = https://github.com/jc-stu/balatromobile
+	branch = mod
